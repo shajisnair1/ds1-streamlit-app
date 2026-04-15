@@ -1,0 +1,84 @@
+# Table 3.14 Tool Joint Makeup Torque (ft-lb)
+
+MAKEUP TORQUES IN THIS TABLE DO NOT APPLY TO DRILL COLLAR OR HWDP
+
+CONNECTIONS
+
+(API connections in bold type are box-weak)
+
+Standard makeup torque for most dull pipe rotary shouldered connections is that torque which results in a speed level of 72,000 psi in the weaker of pin or box, as calculated by equation A-1 in DS 1 Fifth Edition. Volume 3, Appendix A. (This torque amounts to 60 percent of minimum yield strength for tool joint material conforming to A-4 Specification SDB). Thus, makeup torque on a given rotary shouldered tool joint is independent of the grade of pipe to which the tool joint may be attached. Wedge Thread™ connections are not rotary shouldered, but employ a different principle for carrying torsion. Makeup torques for HL TORQUE™, eXterne™ Torque, eXterne™ Torque M, GPDS™, TurboTorque™, TurboTorque-M™, UXT™, uGPDS™, DPM™, PIS™, Ecaras™. Wedge Thread™, NELTS™, HLIDS, HLMT, HLST, HLIST, DPM-DS, DPM-MT, DPM-ST, DPM-High Torque, and CET connections found in this section are provided by their manufacturer.
+
+## Heavy Weight Drill Pipe
+
+For non-proprietary HWDP connections, multiply the MUT value from this table by the factors shown on the right. For proprietary connections, including those listed in this table, consult the manufacturer.
+
+### No.26
+
+|  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  OD [in]  |   |   |   |   |   |   |   |   |
+|  ID [in] | 3.5/8 | 3.1/2 | 3.3/8 | 5.1/4 | 5.1/8 | 3 | 2.5/2.5 | 2.1/2.15  |
+|  1 3/4 | 4260 | 4260 | 4130 | 3000 | 1940 | 940 | 700 | 460  |
+|  1 7/8 | 3640 | 3640 | 3640 | 3000 | 1940 | 940 | 700 | 460  |
+|  2 | 2990 | 2990 | 2990 | 2990 | 1940 | 940 | 700 | 460  |
+|  2 1/8 | 2300 | 2300 | 2300 | 2300 | 1940 | 940 | 700 | 460  |
+|  2 5/32 | 2130 | 2130 | 2130 | 2130 | 1940 | 940 | 700 | 460  |
+|  2 1/4 | 1580 | 1580 | 1580 | 1580 | 1580 | 940 | 700 | 460  |
+
+### NC31
+
+|  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  OD [in]  |   |   |   |   |   |   |   |   |
+|  ID [in] | 4.5/8 | 4.1/4 | 4.1/8 | 4 | 3.7/8 | 3.1/4 | 3.5/8 | 3.1/2  |
+|  1 5/8 | 10030 | 10040 | 8510 | 6850 | 5350 | 3870 | 2460 | 1120  |
+|  1 3/4 | 9400 | 9400 | 8510 | 6850 | 5350 | 3870 | 2460 | 1120  |
+|  1 7/8 | 8570 | 8570 | 8510 | 6850 | 5350 | 3870 | 2460 | 1120  |
+|  2 | 7880 | 7880 | 7880 | 6850 | 5350 | 3870 | 2460 | 1120  |
+|  2 1/8 | 7070 | 7070 | 7070 | 6850 | 5350 | 3870 | 2460 | 1120  |
+
+### NC38
+
+|  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  OD [in]  |   |   |   |   |   |   |   |   |
+|  ID [in] | 5 | 4.15/16 | 4.1/8 | 4.11/16 | 4.2/4 | 4.11/16 | 4.5/8 | 4.9/16  |
+|  2 1/8 | 15970 | 14900 | 13740 | 12610 | 11500 | 10420 | 9350 | 8300  |
+|  2 1/4 | 14870 | 14870 | 13740 | 12610 | 11500 | 10420 | 9350 | 8300  |
+|  2 3/8 | 13780 | 13780 | 13740 | 12610 | 11500 | 10420 | 9350 | 8300  |
+|  2 7/16 | 13220 | 13220 | 13220 | 12610 | 11500 | 10420 | 9350 | 8300  |
+|  3 1/3 | 12650 | 12650 | 12650 | 12610 | 11500 | 10420 | 9350 | 8300  |
+|  7 3/16 | 12060 | 12060 | 12060 | 12060 | 11500 | 10420 | 9350 | 8300  |
+|  2 5/8 | 11480 | 11480 | 11480 | 11480 | 11480 | 10420 | 9350 | 8300  |
+|  2 11/16 | 10840 | 10840 | 10840 | 10840 | 10840 | 10420 | 9350 | 8300  |
+
+### NC38 (continued)
+
+|  1 | 13 | 14 | 15 | 16  |
+| --- | --- | --- | --- | --- |
+|  OD [in]  |   |   |   |   |
+|  10 (in) | 4.5/16 | 4.1/4 | 4.5/16 | 4.1/8  |
+|  2 1/8 | 4320 | 3370 | 2440 | 1540  |
+|  2 1/4 | 4320 | 3370 | 2440 | 1540  |
+|  2 3/8 | 4320 | 3370 | 2440 | 1540  |
+|  2 7/16 | 4320 | 3370 | 2440 | 1540  |
+|  2 1/3 | 4320 | 3370 | 2440 | 1540  |
+|  2 9/16 | 4320 | 3370 | 2440 | 1540  |
+|  2 5/8 | 4320 | 3370 | 2440 | 1540  |
+|  2 11/16 | 4320 | 3370 | 2440 | 1540  |
+
+### NC40
+
+|  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  OD [in]  |   |   |   |   |   |   |   |   |
+|  ID [in] | 5-1/2 | 5-5/8 | 5-1/4 | 5-1/8 | 5 | 4-7/8 | 4 3/4 | 4 5/8  |
+|  2 1/4 | 19620 | 19620 | 17610 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 3/8 | 18460 | 18460 | 17610 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 7/16 | 17860 | 17860 | 17610 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 1/2 | 17240 | 17240 | 17240 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 9/16 | 16920 | 16920 | 16620 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 5/8 | 15970 | 15970 | 15970 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 11/16 | 15320 | 15320 | 15320 | 15050 | 12570 | 10180 | 7880 | 5660  |
+|  2 3/4 | 14650 | 14650 | 14650 | 14650 | 12570 | 10180 | 7880 | 5660  |
+|  2 13/16 | 13970 | 13970 | 13970 | 12570 | 12570 | 10180 | 7880 | 5660  |

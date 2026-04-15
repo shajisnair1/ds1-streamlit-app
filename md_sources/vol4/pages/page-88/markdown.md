@@ -1,0 +1,16 @@
+g. Box Connection Length. The distance between the primary and secondary make-up shoulders shall be measured in two locations, 180 degrees apart, and be free from mechanical damage. This distance shall meet the requirements of Table 7.13-7.15, as applicable. If the connection length exceeds the specified criteria, repair may be made by refacing the primary shoulder. If the connection length is less than the specified criteria, refacing the secondary shoulder may be adequate to repair the connection. Refacing limits are the same as that performed for damaged shoulder faces.
+
+h. Pin Nose Diameter. The outside diameter of the pin nose shall be measured and shall meet the requirements shown in Table 7.13-7.15, as applicable.
+
+i. Pin Connection Length. The distance between the primary and secondary make-up shoulders shall be measured in two locations, 180 degrees apart, and be free from mechanical damage. This distance shall meet the requirements of Table 7.13-7.15, as applicable. If the connection length exceeds the specified criteria, repair may be made by refacing the secondary shoulder (pin nose). If the connection length is less than the specified criteria, refacing the primary shoulder may be adequate to repair the connection. Refacing limits are the same as that performed for damaged shoulder faces.
+
+j. Thread Compound and Protectors. Acceptable connections shall be coated with an acceptable tool joint compound over all thread and shoulder surfaces including the end of the pin. A copper-based thread compound is recommended. Thread protectors shall be applied and secured with approximately 50 to 100 ft-lb of torque. The thread protectors shall be free of debris. If additional inspection of the threads or shoulders will be performed prior to pipe movement, application of thread compound and protectors may be postponed until completion of the additional inspection.
+
+k. Rethreading. This method shall be used to repair connections that fail to meet the requirements stipulated in this inspection procedure after field repair is completed. Performance of this operation requires cropping the connection behind any fatigue crack. Complete removal of the thread profile is not necessary if the connection has no fatigue cracks and if sufficient material can be removed to comply with the NEW product requirements. In this case, the connection does not have to be "reblanked," however all torque shoulders, seal surfaces, and thread elements must be machined to 100% "bright metal." This is not necessary for cylindrical diameters. After rethreading, the connection must be phosphate coated. Copper sulfate is not an acceptable substitute for phosphate coating on rethreaded connections.
+
+## 7.15.8 Procedure and Acceptance Criteria for Hydril Wedge Thread™ Connections
+
+These features are illustrated in Figure 7.42. In addition to the visual connection requirements of 7.14.9, Hydril WT™ connections shall meet the following requirements:
+
+![img-55.jpeg](img-55.jpeg)
+Figure 7.42 Tool joint dimensions for Hydril Wedge Thread™ connections.

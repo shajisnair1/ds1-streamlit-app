@@ -1,0 +1,14 @@
+Table 7.30 Used Tool Joint Acceptance Criteria
+(All dimensions in inches)
+Thick-Walled Drill Pipe
+
+NOTES:
+1. Minimum box OD is determined by adding 3/64 inch to the maximum bevel diameter, which allows for the minimum 1/32-inch wide, 45 degree bevel.
+2. Maximum pin ID is limited such that the connection is box weak in torsion and the thick-walled drill pipe assembly is tube weak in tension.*
+*Maximum pin ID values in **bold text** (equal to the nominal pin ID) indicate that the nominal pin neck tensile capacities at the specified connection makeup torques (for minimum OD and maximum ID connections) are less than the tensile capacities of the drill pipe tubes with the specified grade and remaining wall thickness. In such case, the tensile capacity of the thick-walled drill pipe assembly must be based on the pin neck tensile capacity and not the tube tensile capacity.
+3. Minimum shoulder width is determined by subtracting 1/32 inch from half of the difference between the minimum box OD and the maximum allowable counterbore diameter per API Specification 7-2, Latest Edition.
+4. Minimum bevel diameter is determined from the seal area that gives a connection seal stress equal to 90% MYS (108 ksi) at nominal API MUT.
+5. Minimum pin tong space is 4 inches or 75% of the minimum OD, whichever is larger. The minimum box tong space is determined by adding 1 inch to the length of the box.
+6. Maximum counterbore diameter is determined by adding 1/32 inch to the nominal counterbore diameter (in addition to the machining tolerance).
+7. Maximum bevel diameter is determined from the maximum seal area that gives a connection seal stress equal to 75% MYS (90 ksi) at nominal API MUT.
+8. Existing bevel diameters on thick-walled drill pipe (TWDP) connections are known to be cut in accordance with API Specification SDP requirements for the corresponding normal weight drill pipe (NWDP) connections. For a given connection type, a TWDP tool joint will often have a larger OD and/or smaller ID than the corresponding NWDP tool joint. Therefore, the API MUT is higher for most TWDP connections and the seal widths should be modified to prevent seal stresses in excess of the connection's yield strength, which could cause seal damage. The acceptance criteria in this table has been set to ensure that the seal stress will not exceed the connection yield strength at API MUT. Because TWDP connection bevel diameters are currently based on API requirements for NWDP connections, existing TWDP connections may not be in compliance with the dimensional criteria in this table.
